@@ -1,3 +1,14 @@
-/* #snake {
-  background-color: #424874;
-} */
+body {
+  text-align: center;
+}
+
+#snake {
+  border: 2px solid rgba(246, 117, 117, .5);
+}
+
+h1 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+  color: #f67575;
+}
